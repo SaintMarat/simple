@@ -1,0 +1,30 @@
+.food {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+
+    .P-flex-box {
+        width: 25%;
+        margin-top: 20px;
+
+        .title {
+            margin-top: 10px;
+            font-size: 25px;
+            color: #1A66AE;
+        }
+
+        .description {
+            width: 90%;
+            margin-top: 25px;
+            font-size: 15px;
+        }
+
+        .price {
+            margin-top: 25px;
+            font-size: 25px;
+            color: #2F956D;
+        }
+    }
+
+}
